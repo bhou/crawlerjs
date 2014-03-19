@@ -9,7 +9,7 @@
   },
   "main": "./lib/Crawler",
   "bin": {
-    "crawlerjs": "node ./bin/crawlerjs.js"
+    "crawlerjs": "./bin/crawlerjs.js"
   },
   "dependencies": {
     "winston": "*",
