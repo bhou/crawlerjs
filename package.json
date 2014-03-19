@@ -2,12 +2,12 @@
   "author": "Bo HOU",
   "name": "crawlerjs",
   "description": "A simple crawler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type" : "git",
     "url" : "https://github.com/bhou/crawlerjs.git"
   },
-  "main": "./lib/Crawler",
+  "main": "./lib/main.js",
   "bin": {
     "crawlerjs": "./bin/crawlerjs.js"
   },
